@@ -4,7 +4,7 @@
    ════════════════════════════════════════════════════════ */
 
 // ─── ⚙️  CONFIGURATION — EDIT HERE ───────────────────────
-const HF_MODEL  = "ali-vilab/text-to-video-ms-1.7b";
+const HF_MODEL  = "camenduru/text-to-video-ms-1.7b";
 const PROXY_URL = "https://hf-proxy2.mrzt22music.workers.dev";
 // ─────────────────────────────────────────────────────────
 
