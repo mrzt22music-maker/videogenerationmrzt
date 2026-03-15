@@ -18,7 +18,7 @@
 
 // ─── ⚙️  CONFIGURATION — EDIT HERE ───────────────────────
 const HF_API_TOKEN = "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"; // 🔑 Replace with your token
-const HF_MODEL     = "damo-vilab/text-to-video-ms-1.7b"; // Change model if desired
+const HF_MODEL     = "cerspense/zeroscope_v2_576w"; // Change model if desired
 // ─────────────────────────────────────────────────────────
 
 const HF_API_URL = `https://api-inference.huggingface.co/models/${HF_MODEL}`;
