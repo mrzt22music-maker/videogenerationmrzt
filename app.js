@@ -17,8 +17,9 @@
    ════════════════════════════════════════════════════════ */
 
 // ─── ⚙️  CONFIGURATION — EDIT HERE ───────────────────────
-const HF_API_TOKEN = "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"; // 🔑 Replace with your token
-const HF_MODEL     = "cerspense/zeroscope_v2_576w"; // Change model if desired
+const HF_API_TOKEN = ""; // токен теперь в Worker, здесь оставьте пустым
+const HF_MODEL     = "cerspense/zeroscope_v2_576w";
+const PROXY_URL    = "https://hf-proxy2.mrzt22music.workers.dev/"; // ← ваш URL
 // ─────────────────────────────────────────────────────────
 
 const HF_API_URL = `https://api-inference.huggingface.co/models/${HF_MODEL}`;
