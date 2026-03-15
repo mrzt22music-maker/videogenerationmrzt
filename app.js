@@ -4,7 +4,7 @@
    ════════════════════════════════════════════════════════ */
 
 // ─── ⚙️  CONFIGURATION — EDIT HERE ───────────────────────
-const HF_MODEL  = "cerspense/zeroscope_v2_576w";
+const HF_MODEL  = "stabilityai/stable-video-diffusion-img2vid";
 const PROXY_URL = "https://hf-proxy2.mrzt22music.workers.dev";
 // ─────────────────────────────────────────────────────────
 
