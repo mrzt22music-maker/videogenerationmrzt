@@ -17,7 +17,7 @@
    ════════════════════════════════════════════════════════ */
 
 // ─── ⚙️  CONFIGURATION — EDIT HERE ───────────────────────
-const HF_API_TOKEN = ""; // токен теперь в Worker, здесь оставьте пустым
+const HF_API_TOKEN = "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"; // токен теперь в Worker, здесь оставьте пустым
 const HF_MODEL     = "cerspense/zeroscope_v2_576w";
 const PROXY_URL    = "https://hf-proxy2.mrzt22music.workers.dev/"; // ← ваш URL
 // ─────────────────────────────────────────────────────────
